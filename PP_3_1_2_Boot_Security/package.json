@@ -1,0 +1,14 @@
+{
+  "name": "pp_3_1_2_boot_security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KataAcademy/PP_3_1_2_Boot_Security.git"
+  },
+  "private": true
+}
